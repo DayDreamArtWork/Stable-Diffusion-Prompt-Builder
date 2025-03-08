@@ -1,0 +1,127 @@
+{
+  "styles": [
+    {
+      "id": "photorealistic",
+      "name": "Photorealistic",
+      "description": "Highly detailed, realistic images that look like photographs",
+      "prompt": "photorealistic, highly detailed, sharp focus, 8k resolution, professional photography",
+      "category": "Photography"
+    },
+    {
+      "id": "cinematic",
+      "name": "Cinematic",
+      "description": "Scenes with dramatic lighting and composition like in movies",
+      "prompt": "cinematic, dramatic lighting, movie scene, film grain, wide angle shot, depth of field",
+      "category": "Photography"
+    },
+    {
+      "id": "portrait",
+      "name": "Portrait Photography",
+      "description": "Professional portrait style photography",
+      "prompt": "professional portrait photography, studio lighting, bokeh, sharp focus on subject, high resolution",
+      "category": "Photography"
+    },
+    {
+      "id": "landscape",
+      "name": "Landscape Photography",
+      "description": "Beautiful landscape photography style",
+      "prompt": "landscape photography, golden hour, wide angle, panoramic view, HDR, vivid colors",
+      "category": "Photography"
+    },
+    {
+      "id": "abstract",
+      "name": "Abstract Art",
+      "description": "Non-representational art with shapes, colors and textures",
+      "prompt": "abstract art, non-representational, vibrant colors, geometric shapes, textured",
+      "category": "Art"
+    },
+    {
+      "id": "impressionist",
+      "name": "Impressionist",
+      "description": "Style reminiscent of Monet, Renoir, and other impressionists",
+      "prompt": "impressionist painting, visible brushstrokes, light color palette, emphasis on light and movement",
+      "category": "Art"
+    },
+    {
+      "id": "oil-painting",
+      "name": "Oil Painting",
+      "description": "Traditional oil painting style",
+      "prompt": "oil painting, traditional, detailed brushwork, textured canvas, rich colors",
+      "category": "Art"
+    },
+    {
+      "id": "watercolor",
+      "name": "Watercolor",
+      "description": "Delicate watercolor painting style",
+      "prompt": "watercolor painting, soft colors, wet-on-wet technique, flowing, transparent",
+      "category": "Art"
+    },
+    {
+      "id": "3d-render",
+      "name": "3D Render",
+      "description": "Computer-generated 3D imagery",
+      "prompt": "3D render, CGI, octane render, highly detailed, volumetric lighting, ray tracing",
+      "category": "Digital"
+    },
+    {
+      "id": "pixel-art",
+      "name": "Pixel Art",
+      "description": "Retro-style pixel art like old video games",
+      "prompt": "pixel art, 16-bit, retro game style, limited color palette, pixelated",
+      "category": "Digital"
+    },
+    {
+      "id": "anime",
+      "name": "Anime",
+      "description": "Japanese animation style",
+      "prompt": "anime style, cel shaded, vibrant colors, distinctive eyes, clean lines",
+      "category": "Digital"
+    },
+    {
+      "id": "fantasy",
+      "name": "Fantasy",
+      "description": "Magical and fantastical scenes",
+      "prompt": "fantasy art, magical, mystical atmosphere, vibrant colors, detailed, ethereal lighting",
+      "category": "Concept"
+    },
+    {
+      "id": "cyberpunk",
+      "name": "Cyberpunk",
+      "description": "Futuristic dystopian aesthetic with neon and technology",
+      "prompt": "cyberpunk, neon lights, futuristic, dystopian, high tech low life, night city, rain",
+      "category": "Concept"
+    },
+    {
+      "id": "steampunk",
+      "name": "Steampunk",
+      "description": "Victorian-era industrial aesthetic with steam-powered machinery",
+      "prompt": "steampunk, Victorian, brass, gears, steam-powered, industrial, vintage technology",
+      "category": "Concept"
+    },
+    {
+      "id": "gothic",
+      "name": "Gothic",
+      "description": "Dark, mysterious and ornate aesthetic",
+      "prompt": "gothic style, dark, ornate, dramatic, mysterious, architectural elements, dramatic shadows",
+      "category": "Concept"
+    }
+  ],
+  "categories": [
+    {
+      "id": "Photography",
+      "name": "Photography Styles"
+    },
+    {
+      "id": "Art",
+      "name": "Traditional Art Styles"
+    },
+    {
+      "id": "Digital",
+      "name": "Digital Art Styles"
+    },
+    {
+      "id": "Concept",
+      "name": "Conceptual Styles"
+    }
+  ]
+}
